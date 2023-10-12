@@ -1,0 +1,187 @@
+input{
+    position:relative;
+    top: 170px;
+    width: 320px;
+    height: 32px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color:white;
+    margin-bottom: 12px;
+    left: 520px;
+}
+
+
+
+select{
+    position:relative;
+    top: 167px;
+    width: 70px;
+    height: 37px;
+    margin-bottom: 12px;
+    left: 520px;
+}
+span{
+    position:relative;
+    top: 177px;
+    left: 540px;
+    font-size: 22px;
+}
+h1{
+    position: relative;
+    top: 150px;
+    left: 420px;
+    color: blue;
+font-size: 57px;
+font-weight: 700;
+}
+body{
+    background-color:white;
+}
+
+
+/* button styling */
+.fa-circle-exclamation{
+    position: relative;
+    
+    font-size: 29px;
+    font-weight: 900;
+}
+
+.fa-circle-xmark{
+    font-size: 29px;
+    font-weight: 900;
+}
+
+.fa-check{
+    font-size: 32px;
+    font-weight: 1200;
+}
+
+@media screen and (min-width:0px) and (max-width:411px){
+
+    input{
+        position:relative;
+        top: 170px;
+        width: 220px;
+        height: 32px;
+        font-size: 17px;
+        font-weight: 700;
+        background-color:white;
+        margin-bottom: 12px;
+        left: 65px;
+    }
+    
+    
+    
+    select{
+        position:relative;
+        top: 167px;
+        width: 70px;
+        height: 37px;
+        margin-bottom: 12px;
+        left: 65px;
+    }
+    span{
+        position:relative;
+        top: 177px;
+        left: 70px;
+        font-size: 22px;
+    }
+    h1{
+        position: relative;
+        top: 150px;
+        left: 40px;
+        color: blue;
+    font-size: 32px;
+    font-weight: 900;
+    }
+    body{
+        background-color:white;
+    }
+    
+    
+    /* button styling */
+    .fa-circle-exclamation{
+        position: relative;
+        
+        font-size: 29px;
+        font-weight: 900;
+    }
+    
+    .fa-circle-xmark{
+        font-size: 29px;
+        font-weight: 900;
+    }
+    
+    .fa-check{
+        font-size: 32px;
+        font-weight: 1200;
+    }
+
+}
+
+
+/* second one */
+
+@media screen and (min-width:412px) and (max-width:510px){
+
+    input{
+        position:relative;
+        top: 170px;
+        width: 220px;
+        height: 32px;
+        font-size: 17px;
+        font-weight: 700;
+        background-color:white;
+        margin-bottom: 12px;
+        left: 85px;
+    }
+    
+    
+    
+    select{
+        position:relative;
+        top: 167px;
+        width: 70px;
+        height: 37px;
+        margin-bottom: 12px;
+        left: 85px;
+    }
+    span{
+        position:relative;
+        top: 177px;
+        left: 92px;
+        font-size: 22px;
+    }
+    h1{
+        position: relative;
+        top: 150px;
+        left: 42px;
+        color: blue;
+    font-size: 37px;
+    font-weight: 900;
+    }
+    body{
+        background-color:white;
+    }
+    
+    
+    /* button styling */
+    .fa-circle-exclamation{
+        position: relative;
+        
+        font-size: 29px;
+        font-weight: 900;
+    }
+    
+    .fa-circle-xmark{
+        font-size: 29px;
+        font-weight: 900;
+    }
+    
+    .fa-check{
+        font-size: 32px;
+        font-weight: 1200;
+    }
+
+}
